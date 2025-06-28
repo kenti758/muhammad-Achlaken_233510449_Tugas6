@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Contoh Post",
+      "body": "Ini data dummy",
+      "emoji": "🎉",
+      "color": "#FFC0CB"
+    }
+  ]
+}
